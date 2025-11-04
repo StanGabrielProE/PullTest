@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\bin\Debug\net8.0\KnightVGoblin.exe
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\bin\Debug\net8.0\KnightVGoblin.deps.json
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\bin\Debug\net8.0\KnightVGoblin.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\bin\Debug\net8.0\KnightVGoblin.dll
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\bin\Debug\net8.0\KnightVGoblin.pdb
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\KnightVGoblin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\KnightVGoblin.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\KnightVGoblin.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\KnightVGoblin.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\KnightVGoblin.dll
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\refint\KnightVGoblin.dll
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\KnightVGoblin.pdb
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\KnightVGoblin.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\PXLC#\KnightVGoblin\KnightVGoblin\obj\Debug\net8.0\ref\KnightVGoblin.dll

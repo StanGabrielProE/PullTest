@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\PXLC#\\KnightVGoblin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F857B2-D099-4EA1-835A-C15AE606839F}|KnightVGoblin\\KnightVGoblin.csproj|c:\\users\\gabri\\onedrive\\desktop\\pxlc#\\knightvgoblin\\knightvgoblin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F857B2-D099-4EA1-835A-C15AE606839F}|KnightVGoblin\\KnightVGoblin.csproj|solutionrelative:knightvgoblin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F857B2-D099-4EA1-835A-C15AE606839F}|KnightVGoblin\\KnightVGoblin.csproj|c:\\users\\gabri\\onedrive\\desktop\\pxlc#\\knightvgoblin\\knightvgoblin\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F857B2-D099-4EA1-835A-C15AE606839F}|KnightVGoblin\\KnightVGoblin.csproj|solutionrelative:knightvgoblin\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 334,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\PXLC#\\KnightVGoblin\\KnightVGoblin\\Class1.cs",
+              "RelativeDocumentMoniker": "KnightVGoblin\\Class1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\PXLC#\\KnightVGoblin\\KnightVGoblin\\Class1.cs",
+              "RelativeToolTip": "KnightVGoblin\\Class1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:01:01.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\PXLC#\\KnightVGoblin\\KnightVGoblin\\Program.cs",
+              "RelativeDocumentMoniker": "KnightVGoblin\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\PXLC#\\KnightVGoblin\\KnightVGoblin\\Program.cs",
+              "RelativeToolTip": "KnightVGoblin\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:59:52.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
